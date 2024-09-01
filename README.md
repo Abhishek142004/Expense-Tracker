@@ -23,6 +23,11 @@ Make sure you have the following installed on your machine:
 - 🚀 Node.js (v14+)
 - 🔧 npm (v6+)
 
+### Demo
+
+<a href="https://khata-book.netlify.app/">Live Demo</a>
+
+
 ### ScreenShots
 
 ![image](https://github.com/user-attachments/assets/a6f4c88b-9714-40b8-a2ca-5b54585395fd)
