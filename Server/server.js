@@ -12,7 +12,7 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "https://khata-book.netlify.app",
   methods: "GET, POST, PUT, PATCH, DELETE",
   credentials: true,
 };
