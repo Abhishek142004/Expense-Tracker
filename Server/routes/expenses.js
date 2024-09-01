@@ -5,7 +5,7 @@ const {
   updateExpense,
   deleteExpense,
 } = require("../controllers/expensecontroller");
-const { protect } = require("../middleware/authMiddleware");
+const { protect } = require("../middleware/authmiddleware");
 const router = express.Router();
 
 // Define your routes with controller functions
